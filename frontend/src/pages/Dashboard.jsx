@@ -162,7 +162,7 @@ export default function Dashboard({ token }) {
           >
             <option value="">All Genders</option>
             <option value="male">Male</option>
-            <option value="female">Female</option>
+            <option value="female">Females</option>
           </select>
           
           <select
